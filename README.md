@@ -77,7 +77,7 @@ ORDER BY times_sold DESC LIMIT 10;
 ![City Sales](./dashboards/A_sales_dashboard.png)
 
 **Product Sales Dashboard:**
-![Product Sales](./products_dashboard.png)
+![Product Sales](./dashboards/B_products_dashboard.png)
 ## 🔧 How to Run
 1.  Upload raw CSV to S3 Raw Bucket
 2.  Lambda parses and pushes to Kinesis -> S3 Bronze
