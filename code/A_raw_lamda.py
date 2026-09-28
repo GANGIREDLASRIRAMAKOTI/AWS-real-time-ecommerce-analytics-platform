@@ -37,3 +37,5 @@ def lambda_handler(event, context):
 
     print(f"Successfully sent {count} records to Kinesis stream")
     return "DONE"
+
+
