@@ -74,7 +74,7 @@ ORDER BY times_sold DESC LIMIT 10;
 ### 📸 Dashboard Screenshots
 
 **City Sales Dashboard:**
-![City Sales](./sales_dashboard.png)
+![City Sales](./dashboards/A_sales_dashboard.png)
 
 **Product Sales Dashboard:**
 ![Product Sales](./products_dashboard.png)
