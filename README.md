@@ -3,7 +3,7 @@
 A Serverless Data Engineering Project using Medallion Architecture (Bronze-Silver-Gold) with AWS.
 
 ## 📌 Architecture Diagram
-![Architecture Diagram](https://github.com/GANGIREDLASRIRAMAKOTI/AWS-real-time-ecommerce-analytics-platform/blob/main/Architecture_Diagram.jpeg)
+![Architecture Diagram](https://github.com/GANGIREDLASRIRAMAKOTI/AWS-real-time-ecommerce-analytics-platform/blob/main/Architecture/Architecture_Diagram.jpeg)
 
 ## 🏗️ Architecture Flow
 1.  **Ingestion Layer:** S3 Raw Bucket (CSV Files) -> Lambda (CSV Parser & Validator) -> Kinesis Data Stream
